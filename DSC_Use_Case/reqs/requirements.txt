@@ -10,7 +10,7 @@ shap==0.54.0             # upgraded from 0.39.0
 tensorflow==2.21.0       # upgraded from 2.12.1
 xgboost==3.1.1           # upgraded from 1.5.1
 imbalanced_learn==1.2.2  # upgraded from 0.8.1
-keras==3.12.0            # upgraded from 2.7.0
+keras==3.13.1            # upgraded from 2.7.0
 keras_nightly==3.12.0.dev2025100703 # upgraded from 2.5.0.dev2021032900
 h2o==3.46.0.8
 scikit-plot==0.3.7 
